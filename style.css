@@ -1,0 +1,133 @@
+.title {
+    color: black;
+    font-size: 75px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* colors section */
+
+.colors {
+    padding-left: 10px;
+}
+
+.color-section {
+    margin: 0px 50px;
+    border: 3px solid black;
+    padding-bottom: 25px;
+}
+
+.outdoors li {
+    display: inline;
+    border: 3px solid black;
+    margin: 50px 5%;
+    padding: 10px 10px 10px 10px;
+}
+
+.military {
+    color: black;
+    background-color: sandybrown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.bullet {
+    color: white;
+    background-color: darkslategray;
+}
+
+.hornet {
+    background-color: gold;
+    color: black;
+}
+
+.blood {
+    background-color: red;
+    color: black;
+}
+
+/* fonts section */
+
+.fonts {
+    padding-left: 10px;
+}
+.fonts-section {
+    margin: 0px 50px;
+    border: 3px solid black;
+    height: 500px;
+}
+.georgia-font {
+    width: 500px;
+    height: 100px;
+    float: left;
+    padding: 0px 0px 0px 200px;
+}
+.georgia {
+    text-decoration: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}  
+.geo-bold {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.geo-italics {
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.franklin-font {
+    width: 500px;
+    height: 100px;
+    float: right;
+    padding: 0px 200px 0px 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.franklin {
+    text-decoration: underline;
+}
+.frankling-bol {
+    font-weight: bolder;
+}
+.franklin-italics {
+    font-style: italic;
+}
+.verdana-font {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 500px;
+    height: 100px;
+    float: left;
+    padding: 100px 0px 0px 200px;
+}
+.verdana {
+    text-decoration: underline;
+}
+.verdana-norm {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.verdana-bold {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.verdana-italics {
+    font-style: italic;
+}
+
+/* text styles */
+.text-styles {
+    border: 3px solid black;
+    margin: 0px 50px 0px 50px;
+    padding-left: 10px;
+}
+.title-text {
+    color: black;
+    font-size: 75px;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.title-ex {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.p-text {
+    text-decoration: underline;
+}
